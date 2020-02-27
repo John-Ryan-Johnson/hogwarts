@@ -1,7 +1,5 @@
 import navbar from './components/navbar/navbar';
-
 import studentData from './helpers/data/studentData';
-
 import studentList from './components/studentList/studentList';
 import houseButtonGroup from './components/houseButtonGroup/houseButtonGroup';
 

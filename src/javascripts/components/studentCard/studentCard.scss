@@ -6,16 +6,13 @@
   margin: 1%;
   background-color: $gold;
   box-shadow: $box-shadow;
-
   .img-holder {
     height: 250px;
     overflow: hidden;
-
     img {
       width: 100%;
     }
   }
-
   h2 {
     @include default-font(20px);
   }

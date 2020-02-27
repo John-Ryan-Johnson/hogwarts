@@ -1,9 +1,7 @@
 import utilities from '../../helpers/utilities';
 
-import studentData from '../../helpers/data/studentData';
-
 import houseData from '../../helpers/data/houseData';
-
+import studentData from '../../helpers/data/studentData';
 import studentCard from '../studentCard/studentCard';
 import './studentList.scss';
 
